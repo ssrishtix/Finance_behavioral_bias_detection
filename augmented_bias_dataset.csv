@@ -1,0 +1,51 @@
+text,bias
+I’m not selling at a loss.,loss_aversion
+I’m not selling at a loss. That's my decision.,loss_aversion
+"Honestly, i’m not selling at a loss.",loss_aversion
+We’m not selling at a loss.,loss_aversion
+I’m not selling at a loss. It's probably the right move.,loss_aversion
+Everyone is buying this stock.,herd_mentality
+Everyone is buying this stock. That's my decision.,herd_mentality
+"Honestly, everyone is buying this stock.",herd_mentality
+Everyone is buying this stock.,herd_mentality
+Everyone is buying this stock. It's probably the right move.,herd_mentality
+I believe the price will go up again.,overconfidence
+I believe the price will go up again. That's my decision.,overconfidence
+"Honestly, i believe the price will go up again.",overconfidence
+We believe the price will go up again.,overconfidence
+I believe the price will go up again. It's probably the right move.,overconfidence
+"This stock was good last time, it’ll be good again.",recency_bias
+"This stock was good last time, it’ll be good again. That's my decision.",recency_bias
+"Honestly, this stock was good last time, it’ll be good again.",recency_bias
+"This stock was good last time, it’ll be good again.",recency_bias
+"This stock was good last time, it’ll be good again. It's probably the right move.",recency_bias
+I feel lucky with this company.,illusion_of_control
+I feel lucky with this company. That's my decision.,illusion_of_control
+"Honestly, i feel lucky with this company.",illusion_of_control
+We feel lucky with this company.,illusion_of_control
+I feel lucky with this company. It's probably the right move.,illusion_of_control
+I should have sold earlier.,regret_aversion
+I should have sold earlier. That's my decision.,regret_aversion
+"Honestly, i should have sold earlier.",regret_aversion
+We should have sold earlier.,regret_aversion
+I should have sold earlier. It's probably the right move.,regret_aversion
+This is the safest option.,status_quo_bias
+This is the safest option. That's my decision.,status_quo_bias
+"Honestly, this is the safest option.",status_quo_bias
+This is the safest option.,status_quo_bias
+This is the safest option. It's probably the right move.,status_quo_bias
+I don’t want to miss out.,fear_of_missing_out
+I don’t want to miss out. That's my decision.,fear_of_missing_out
+"Honestly, i don’t want to miss out.",fear_of_missing_out
+We don’t want to miss out.,fear_of_missing_out
+I don’t want to miss out. It's probably the right move.,fear_of_missing_out
+Let me wait a little longer before selling.,delay_aversion
+Let me wait a little longer before selling. That's my decision.,delay_aversion
+"Honestly, let me wait a little longer before selling.",delay_aversion
+Let me wait a little longer before selling.,delay_aversion
+Let me wait a little longer before selling. It's probably the right move.,delay_aversion
+My friend said it’s a great stock.,social_proof
+My friend said it’s a great stock. That's my decision.,social_proof
+"Honestly, my friend said it’s a great stock.",social_proof
+My friend said it’s a great stock.,social_proof
+My friend said it’s a great stock. It's probably the right move.,social_proof
