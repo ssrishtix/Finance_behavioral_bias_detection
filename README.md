@@ -21,6 +21,7 @@ This project detects **cognitive biases** behind financial or decision-making st
 
 Behavioral finance studies how human psychology affects financial decisions. People are often unaware that their emotions, habits, or cognitive shortcuts (biases) influence decisions like investing, spending, or saving.
 
+This project aims to **identify those hidden biases** and increase self-awareness.
 
 ---
 
