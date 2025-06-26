@@ -13,7 +13,6 @@ This project detects **cognitive biases** behind financial or decision-making st
 - **Anchoring Bias**
 - **Confirmation Bias**
 - **Herding Behavior**
-- *(...and more)*
 
 ---
 
